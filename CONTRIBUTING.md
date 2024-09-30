@@ -11,8 +11,7 @@ By participating in this project, you're expected to uphold our [Code of Conduct
 Set up your local project in your computer
 
 ```bash
-git clone https://github.com/yatendra2001/ai_buddy.git
-cd ai_buddy
+
 ```
 
 Create a new branch
@@ -62,6 +61,6 @@ flutter test
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at on [twitter](https://twitter.com/iamyatendrak) / [linkedin](https://www.linkedin.com/in/iamyatendrak/). Remember, the best way to gain contributions is by being respectful and welcoming to new contributors.
+If you have any questions or feedback, please feel free to contact me at on [twitter] / [linkedin]. Remember, the best way to gain contributions is by being respectful and welcoming to new contributors.
 
 I'm so excited to see the contributions you'll make!
